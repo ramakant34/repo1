@@ -3,4 +3,5 @@ MAINTAINER "ramakanth"
 COPY 
 COPY
 CMD
+EXPOSE
 
